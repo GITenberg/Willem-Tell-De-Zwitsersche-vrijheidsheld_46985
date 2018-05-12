@@ -1,4 +1,8 @@
 _repo: Willem-Tell-De-Zwitsersche-vrijheidsheld_46985
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46985-h/images/cover.jpg
 creator:
   author:
     agent_name: Louwerse, Pieter
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3977
     wikipedia: http://nl.wikipedia.org/wiki/Pieter_Louwerse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46985#Willem-Tell-De-Zwitsersche-vrijheidsheld
 gutenberg_issued: '2014-09-28'
 gutenberg_type: Text
 identifiers:
